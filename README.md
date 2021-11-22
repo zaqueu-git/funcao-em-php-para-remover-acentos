@@ -1,1 +1,1 @@
-# funcao-em-php-para-remover-acentos
+# Função em php para remover acentos
